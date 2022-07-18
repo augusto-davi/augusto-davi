@@ -11,6 +11,7 @@
 <!--
 ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 **augusto-davi/augusto-davi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
