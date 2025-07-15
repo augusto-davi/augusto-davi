@@ -1,14 +1,20 @@
-## Hi there 👋
+## Hi, I'm a backend dev student 👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50px" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px" width="50px"/>
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50px" width="50px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="50px" width="50px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50px" width="50px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" width="50px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50px" width="50px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50px" width="50px"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50px" width="50px"/>
+</span>
 
-### Currently focusing on:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50px" width="50px"/>
+<div>&nbsp;</div>
 
 <div>
 <a href="https://github.com/augusto-davi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-davi&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=augusto-davi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+<img loading="lazy" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto-davi&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
           
 <!--
